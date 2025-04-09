@@ -12,7 +12,6 @@ const Navbar = () => {
       <Link to="/products" className={styles.link}>Products</Link>
 
     </nav>
-
 </>
   )
 }
